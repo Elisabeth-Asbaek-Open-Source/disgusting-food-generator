@@ -1,6 +1,6 @@
 {
   "name": "@elisabethasbaek/disgusting-food-generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generator for creating disgusting food combos in your console!",
   "main": "index.js",
   "scripts": {
