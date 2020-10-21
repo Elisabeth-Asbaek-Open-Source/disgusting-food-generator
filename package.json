@@ -1,0 +1,27 @@
+{
+  "name": "@elisabethasbaek/disgusting-food-generator",
+  "version": "1.0.0",
+  "description": "Generator for creating disgusting food combos in your console!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elisabeth-Asbaek-Open-Source/disgusting-food-generator.git"
+  },
+  "keywords": [
+    "food",
+    "generator",
+    "funny",
+    "console",
+    "javascript",
+    "opensource"
+  ],
+  "author": "Elisabeth Asbæk Jeppesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elisabeth-Asbaek-Open-Source/disgusting-food-generator/issues"
+  },
+  "homepage": "https://github.com/Elisabeth-Asbaek-Open-Source/disgusting-food-generator#readme"
+}
